@@ -24,5 +24,5 @@ if guess==number:
     print 'good job {0}!,you guess my number in {1} guessed'.format(name,guesses_made)
 else:
     print 'sad,the number i want was {0}'.format(number)
-    
+raw_input()   
     
